@@ -1,0 +1,13 @@
+title: Laltu Sardar - Homepage
+description: Unofficial website of Laltu Sardar 
+author: Laltu Sardar
+
+domain: "laltu-sardar.github.io"
+baseurl: ""
+
+twitter_username: hiddenmarkov
+github_username: sardarlaltu
+github_repo: laltu-sardar
+ga_id: UA-104921371-1
+
+markdown: kramdown
